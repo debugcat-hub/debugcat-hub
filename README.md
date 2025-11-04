@@ -29,7 +29,7 @@ Everything you see here — even the forked repositories — are **my own projec
 
 ## 🧰 Tech Stack
 **Languages:**  
-`Python` · `JavaScript` · `Rust` · `SQL` · `R`  
+`Python` · `JavaScript`  · `SQL` ·
 
 **Frameworks & Tools:**  
 `FastAPI` · `Django` · `PyTorch` · `OpenCV` · `NumPy` · `Pandas` · `SQLAlchemy` · `Tkinter`  
