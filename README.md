@@ -1,7 +1,7 @@
 # 👋 Hey there, I’m DebugCat 🐾
 
 Welcome to my GitHub profile!  
-I’m passionate about **AI, Machine Learning, Deep Learning, Automation**, and **full-stack development**.  
+I’m passionate about **AI, Machine Learning, Deep Learning, Automation**, and **backend development**.  
 Everything you see here — even the forked repositories — are **my own projects, experiments, or custom improvements** built for learning and innovation.
 
 ---
