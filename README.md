@@ -21,7 +21,7 @@ Everything you see here — even the forked repositories — are **my own projec
 |  **Video Speaker Analysis Pipeline** | Combines face recognition, lip-sync detection, and diarization |
 | **Voice-Controlled Assistant (Jarvis)** | AI assistant with real-time speech control, YouTube, and weather APIs |
 |  **Explainable AI Toolkit (XAI)** | Fairness, interpretability, and explainability applied to ML models |
-|  **Data Science in R & Python** | Visualizations, clustering, Apriori, and FP-Growth for real datasets |
+|  **Data Science inn Python** | Visualizations, clustering, Apriori, and FP-Growth for real datasets |
 
 >  Many of these are under forks — but they’re all **personally developed or heavily customized**.
 
