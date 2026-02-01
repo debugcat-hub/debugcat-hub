@@ -35,7 +35,7 @@ Everything you see here — even the forked repositories — are **my own projec
 `FastAPI` · `Django` · `PyTorch` · `OpenCV` · `NumPy` · `Pandas` · `SQLAlchemy` · `Tkinter`  
 
 **Other Skills:**  
-AI/ML · Data Science · Video/Audio Processing · Automation · Frontend Development (React, Tailwind)
+AI/ML · Data Science · Video/Audio Processing · Automation · Backend Development (Node)
 
 ---
 
