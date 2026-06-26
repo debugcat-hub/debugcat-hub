@@ -1,55 +1,71 @@
-#  Hey there, I’m DebugCat 
+# 👋 Hi, I'm DebugCat
 
-Welcome to my GitHub profile!  
-I’m passionate about **AI, Machine Learning, Deep Learning, Automation**, and **backend development**.  
-Everything you see here — even the forked repositories — are **my own projects, experiments, or custom improvements** built for learning and innovation.
+I'm a Computer Science student passionate about **Artificial Intelligence, Machine Learning, Backend Development, and Automation**.
 
----
-
-## About Me
--  I’m currently exploring **AI-driven automation**, **LLM tooling**, and **computer vision pipelines**  
--  Learning advanced frameworks like **FastAPI**, **SQLAlchemy**, **PyTorch**, and **Rust**  
--  Building end-to-end systems that connect AI models, data, and UI seamlessly  
--  Goal: To create tools that make AI practical, explainable, and accessible  
+I enjoy building practical projects that combine AI with real-world applications while continuously learning new technologies.
 
 ---
 
-##  My Key Projects
+## 🚀 Currently Learning
+
+- Deep Learning with PyTorch
+- FastAPI for backend APIs
+- Computer Vision using OpenCV
+- MCP (Model Context Protocol)
+- LLM-based applications and AI automation
+
+---
+
+## 💻 Featured Projects
+
 | Project | Description |
-|----------|--------------|
-|  **AI Tooling & MCP Automation** | Natural language to SQL automation, Spotify control, Excel insights |
-|  **Video Speaker Analysis Pipeline** | Combines face recognition, lip-sync detection, and diarization |
-| **Voice-Controlled Assistant (Jarvis)** | AI assistant with real-time speech control, YouTube, and weather APIs |
-|  **Explainable AI Toolkit (XAI)** | Fairness, interpretability, and explainability applied to ML models |
-|  **Data Science inn Python** | Visualizations, clustering, Apriori, and FP-Growth for real datasets |
-
->  Many of these are under forks — but they’re all **personally developed or heavily customized**.
+|---------|-------------|
+| 🤖 AI Automation | Natural language workflows, AI tools, and automation experiments |
+| 🎙 Video Speaker Analysis | Face detection, lip-sync analysis, and speaker diarization pipeline |
+| 🎧 Voice Assistant | Desktop assistant with speech recognition and API integrations |
+| 📊 Data Science Projects | Clustering, association rule mining, visualizations, and ML experiments |
+| 🧠 Machine Learning | Model training, evaluation, explainability, and experimentation |
 
 ---
 
-##  Tech Stack
-**Languages:**  
-`Python` · `JavaScript`  · `SQL` ·
+## 🛠 Tech Stack
 
-**Frameworks & Tools:**  
-`FastAPI` · `Django` · `PyTorch` · `OpenCV` · `NumPy` · `Pandas` · `SQLAlchemy` · `Tkinter`  
+### Languages
 
-**Other Skills:**  
-AI/ML · Data Science · Video/Audio Processing · Automation · Backend Development (Node)
+Python • Java • SQL • JavaScript
+
+### Libraries & Tools
+
+PyTorch • OpenCV • NumPy • Pandas • FastAPI • Git 
+
+### Areas of Interest
+
+Machine Learning
+
+Deep Learning
+
+Computer Vision
+
+Backend Development
+
+Automation
+
+AI Applications
 
 ---
 
-## 📊 GitHub Stats
-![DebugCat's GitHub stats](https://github-readme-stats.vercel.app/api?username=debugcat-hub&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=debugcat-hub&layout=compact&theme=tokyonight)
+## 📈 GitHub Stats
+
+<!-- your github stats -->
 
 ---
 
-##  Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/debugcat-hub)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:youremail@example.com)
+## 🌱 About this Profile
+
+Most repositories here are personal learning projects, experiments, or implementations created while exploring new technologies. Some repositories are forks used for experimentation or to build upon existing open-source work.
+
+Learning in public is part of my journey, and I continuously improve these projects as I gain experience.
 
 ---
 
-### 🐾 “Every bug is just a hidden feature waiting to be understood.”
+> "Every bug teaches something new."
